@@ -1,0 +1,83 @@
+nav{
+    background-color: gray;
+    color: white;
+    position: sticky;
+    padding: 30px;
+    top:10px;
+}
+header{
+    position: relative;
+}
+span{
+    color: blue;
+}
+.heading{
+    font-size: 40px;
+    font-weight: bold;
+}
+.homeNav,.dashboard,.homeLogin{
+    display: inline-block;
+    position: relative;
+}
+.homeNav{
+    position: absolute;
+    top:5px;
+    left: 20px;
+
+}
+.dashboard{
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+.link{
+    margin-left: 20px;
+    margin-right: 20px;
+    color: white;
+}
+.homeLogin{
+    position: absolute;
+    top:30px;
+    right: 20px;
+}
+.homeImg{
+    position: relative;
+    top: 40px;
+    right: 0px;
+    width: 400px;
+    height: 400px;
+    border-end-end-radius: 200px;
+    border-start-start-radius: 200px;
+}
+.search{
+    margin-top: 100px;
+    display: inline;
+}
+.searchButton{
+    width:25%;
+    height: 18%;
+    border-radius: 20px;
+    margin-left: 20px;
+    font-size: 18px;
+}
+.homeContainer{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.select{
+    width:50%;
+    height: 20%;
+    border-radius: 20px;
+    padding: 20px;
+    font-size: 16px;
+}
+.jobCard{
+    display: flex;
+    flex-wrap: wrap;
+}
+.username{
+    position: relative;
+    top: -20px;
+}

@@ -1,0 +1,16 @@
+.jobInput{
+    font-size: 20px;
+    margin: 20px;
+    color: black;
+    width: 55%;
+    height: 40px;
+    font-weight:200;
+    background-color: transparent;
+    border:2px solid gray;
+    border-radius: 10px;
+}
+.jobButton{
+    width: 40%;
+    height: 40px;
+    border-radius: 10px;
+}

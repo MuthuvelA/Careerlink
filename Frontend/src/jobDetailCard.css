@@ -1,0 +1,70 @@
+.detailHead{
+    color: gray;
+}
+.detailCard{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.detailProfile{
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.detailName{
+    display: inline-block;
+    width:300px;
+    height: max-content;
+    margin-left: 100px;
+}
+.name{
+   text-align: start;
+}
+.apply{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+
+}
+.detailApply{
+    display: flex;
+    width:300px;
+    align-items: center;
+    margin-left: 30px;
+    margin-top: 20px;
+
+}
+.detailButton{
+    margin-left: 30px;
+    width : 150px;
+    height: 40px;
+    border-radius: 20px;
+}
+.detailDisc{
+    text-align: center;
+    width : 70%;
+}
+.detailSumary{
+    text-align: start;
+    margin-top: 20px;
+}
+.pin{
+    display: inline;
+}
+.mail{
+    margin-left: 30px;
+    margin-left: 30px;
+    border-top: 2px solid rgb(89, 89, 89);
+}
+.detailTextarea{
+    font-size: 20px;
+    margin: 20px;
+    color: black;
+    width: 55%;
+    font-weight:200;
+    background-color: transparent;
+    border:2px solid gray;
+    border-radius: 10px;
+}

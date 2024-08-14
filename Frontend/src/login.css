@@ -1,0 +1,43 @@
+.loginDiv{
+    color: black;
+    
+}
+.loginInput{
+    display: inline-block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 30px;
+    border-radius: 20px;
+    color: white;
+    padding: 5px;
+
+    font-size: 18px;
+    width: 300px;
+}
+.loginContainer{
+    display: flex;
+    justify-content: center;
+}
+.loginButton{
+    background-color: gray;
+    color: white;
+    font-size: 20px;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+}
+.loginForm{
+    background-color: rgb(95, 93, 93);
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.loginLink{
+    font-size: 20px;
+    color: black;
+}
